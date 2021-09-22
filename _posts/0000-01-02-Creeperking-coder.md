@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+GET A LIFE FURRY
 Use the left arrow to go back!
 
 
